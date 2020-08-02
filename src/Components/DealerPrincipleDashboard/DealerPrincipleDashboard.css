@@ -1,0 +1,22 @@
+.DealerPrincipleDashboard {
+  margin-left: 10px;
+  display: flex;
+  /* justify-content: space-evenly; */
+  margin-right: 5px;
+  margin-top: 20px;
+}
+.DealerPrincipleDashboard_Children {
+  display: flex;
+  flex: 1;
+
+  justify-content: space-evenly;
+}
+@media screen and (min-width: 480px) {
+  #leftsidebar {
+    width: 200px;
+    float: left;
+  }
+  #DealerPrincipleDashboard_Children {
+    margin-left: 216px;
+  }
+}

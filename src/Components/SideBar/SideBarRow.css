@@ -19,10 +19,10 @@
   font-size: large !important;
 }
 .SideBarRow_Icon:hover > {
-  color: #326da8;
+  color: #1565c0;
 }
 .SideBarRow:hover > .SideBarRow_Icon {
-  color: #326da8;
+  color: #1565c0;
 }
 
 .SideBarRow:hover > .SideBarRow_Title {
@@ -36,10 +36,10 @@
   font-weight: bold;
 }
 .SideBarRow.selected > .SideBarRow_Icon {
-  color: #326da8;
+  color: #1565c0;
 }
 .SideBarRow > hr {
-  height: 10px;
+  height: 5px;
   border: 0px;
   background-color: lightgray;
   margin-top: 10px;

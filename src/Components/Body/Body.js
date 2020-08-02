@@ -1,9 +1,10 @@
 import React from "react";
 import "./Body.css";
+import DealerPrincipleDashboard from "../DealerPrincipleDashboard/DealerPrincipleDashboard";
 function Body() {
   return (
     <div className="Body">
-      <h1>This is the body of egm</h1>
+      <DealerPrincipleDashboard />
     </div>
   );
 }

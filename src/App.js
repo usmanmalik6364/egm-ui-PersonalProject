@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <Header className="App_Header" />
+
       <div className="App_Body">
         <SideBar />
         <Body />
